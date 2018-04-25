@@ -281,3 +281,4 @@ So in this section we saw how upon visiting a url, React Router will supply any 
 Then we saw how after taking an action like creating a new movie, we can change the url by using the `history` object that is supplied to our component as props. So a call to `history.push('/movies')` changes the url to `/movies`.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-router-params'>React Router Params</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Params and Redirects</p>
